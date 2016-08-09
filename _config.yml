@@ -21,6 +21,9 @@ navigation:
   - name: Turer
     id: aaf20032-029c-4882-9eb6-55890620f4ff
     type: content
+  - name: Kveldsturer
+    id: ef9825bc-a863-47d5-b349-7c9c98e01c60
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4c03ed6-b009-4e62-9c9e-1d70b9faff30.png
 title: Trondheimkajakk
