@@ -18,6 +18,9 @@ navigation:
   - name: Instagram stream
     url: 'https://www.instagram.com/trondheimkajakk/'
     type: external
+  - name: Turer
+    id: aaf20032-029c-4882-9eb6-55890620f4ff
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4c03ed6-b009-4e62-9c9e-1d70b9faff30.png
 title: Trondheimkajakk
