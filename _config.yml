@@ -14,6 +14,10 @@ layout_spectrum: 0.45614102529361844
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/41fcb587-466d-4ef7-99b7-9db3d4d8ee9f.png
 name: Trondheimkajakk.no
+navigation:
+  - name: Instagram stream
+    url: 'https://www.instagram.com/trondheimkajakk/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4c03ed6-b009-4e62-9c9e-1d70b9faff30.png
 title: Trondheimkajakk
